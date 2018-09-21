@@ -1,0 +1,9 @@
+public class FirstDemo
+{
+  public static void main(String str[])
+  {
+    System.out.println("Hello DevOps");
+    System.out.println("My First Example");
+  }
+ 
+}   
